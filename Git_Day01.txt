@@ -1,9 +1,0 @@
-git clone "link" = to download files in local repository for first time 
-git pull " link" = to pull changes in repository for first time
-git pull = to pull changes in repository 
-git add "file name" = to add perticular file from working pc to staging area 
-git add --all = to add all files from working pc to stagging area
-git commit -m "message" = to add file from stagging area to local repository 
-git push "link" = to add files from local repository to github server for first time
-git push = to add files from local repository to github server
-git status =to check any changes in repository 
